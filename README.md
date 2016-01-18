@@ -1,7 +1,7 @@
 # Codepath-android
 
 ###To do list app
-This app lets the user add 
+This app lets the user add items to a list which can be edited and deleted.
 
 Completed user stories:
 
